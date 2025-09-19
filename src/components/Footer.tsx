@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
         <div className="grid md:grid-cols-3 gap-8">
           <div className="space-y-4">
             <h3 className="text-xl font-bold text-white">
-              Sarah<span className="text-blue-400">Data</span>
+              Leen<span className="text-blue-400">Data</span>
             </h3>
             <p className="text-gray-400">
               Data scientist passionate about transforming complex data into actionable insights 
@@ -52,7 +52,7 @@ const Footer: React.FC = () => {
         
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400 flex items-center justify-center space-x-1">
-            <span>© 2024 Sarah Chen. Made with</span>
+            <span>© 2024 Leen Kharboutli. Made with</span>
             <Heart size={16} className="text-red-500" />
             <span>using React & TypeScript</span>
           </p>

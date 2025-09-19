@@ -43,7 +43,7 @@ const Navigation: React.FC<NavigationProps> = ({ activeSection, onSectionChange 
         <div className="flex items-center justify-between h-16">
           <div className="flex-shrink-0">
             <span className="text-xl font-bold text-white">
-              Sarah<span className="text-blue-400">Data</span>
+              Leen<span className="text-blue-400">Data</span>
             </span>
           </div>
           
