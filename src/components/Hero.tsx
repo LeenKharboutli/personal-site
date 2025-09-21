@@ -26,7 +26,7 @@ const Hero: React.FC = () => {
           </h1>
           
           <p className="text-xl sm:text-2xl lg:text-3xl text-gray-300 mb-4 font-light">
-            Data Scientist & Machine Learning Engineer
+            Data Scientist [NOTE: WEBSITE UNDER CONSTRUCTION, THE TEXT ON THIS SITE IS ALL PLACEHOLDER]
           </p>
           
           <p className="text-lg text-gray-400 mb-8 max-w-2xl mx-auto leading-relaxed">
